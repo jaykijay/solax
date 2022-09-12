@@ -8,6 +8,7 @@ from .x1_smart import X1Smart
 from .x3_v34 import X3V34
 from .x3 import X3
 from .x1_boost import X1Boost
+from .x1_mini_v34_v3 import X1MiniV34_v3
 
 __all__ = [
     "QVOLTHYBG33P",
@@ -20,4 +21,5 @@ __all__ = [
     "X3",
     "X1Boost",
     "X1HybridGen4",
+    "X1MiniV34_v3",
 ]
